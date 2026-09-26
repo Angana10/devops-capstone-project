@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Template for writing user stories in Agile format
+title: "[User Story] "
+labels: user-story
+assignees: ""
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
